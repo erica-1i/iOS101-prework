@@ -5,6 +5,13 @@
 Submitted by: **Erica Li**
 
 **Color Change** is an app that... changes the background color everytime that you press the button. 
+<div>
+    <a href="https://www.loom.com/share/2ded4dc66bbf48939920505c46a47549">
+    </a>
+    <a href="https://www.loom.com/share/2ded4dc66bbf48939920505c46a47549">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2ded4dc66bbf48939920505c46a47549-3f1eba7e758c8710-full-play.gif">
+    </a>
+  </div>
 
 Time spent: **4** hours spent in total
 
