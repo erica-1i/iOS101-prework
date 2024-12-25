@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var changeBackgroundColor: UIButton! // Optional: Remove if unused
+    @IBOutlet weak var changeBackgroundColor: UIButton!
 
     func changeColor() -> UIColor{
 
@@ -22,11 +22,9 @@ class ViewController: UIViewController {
 
         override func viewDidLoad() {
             super.viewDidLoad()
-            // Any additional setup can go here
         }
 
         @IBAction func changeBackgroundColorTapped(_ sender: UIButton) {
-            // Change the background color when the button is tapped
             view.backgroundColor = changeColor()
         }
    }
