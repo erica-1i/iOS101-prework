@@ -22,7 +22,25 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
+Example App: Instagram
+Changing the background color of the messages screen
+Deleting old messages
 
+Goodnotes:
+- organizing files in folders
+- search function in notes
+
+Google maps:
+- search function for places to go
+- filters for places
+
+Outlook:
+- Flagging emails to mark important emails
+- email folders for specific emails
+  
+Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+An app I would like to build is an app that tells you where your nearest public bathroom is and how clean it is. It would be like a map with reviews for bathrooms. This aims to help anyone who is stuck outside and needs to find a bathroom in a pinch. Users will be able to filter bathrooms by cleanliness rating and amenities (like baby changing stations or free sanitary products).
 ## Notes
 
 Describe any challenges encountered while building the app.
